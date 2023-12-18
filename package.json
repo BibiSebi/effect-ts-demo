@@ -1,0 +1,15 @@
+{
+  "name": "effect-ts-demo",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@effect/schema": "^0.54.0",
+    "effect": "^2.0.0-next.61"
+  }
+}
